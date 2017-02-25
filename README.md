@@ -20,20 +20,24 @@ The data is described in the codebook: [Codebook.md]
 For each plot:
 
 ###Plot 1:
-R code file: (plot1.R)
-Plot image: (plot1.png)
+R code file: [plot1.R](plot1.R)
+
+Plot image: [plot1.png](plot1.png)
 
 ###Plot 2:
-R code file: (plot2.R)
-Plot image: (plot2.png)
+R code file: [plot2.R](plot2.R)
+
+Plot image: [plot2.png](plot2.png)
 
 ###Plot 3:
-R code file: (plot3.R)
-Plot image: (plot3.png)
+R code file: [plot3.R](plot3.R)
+
+Plot image: [plot3.png](plot3.png)
 
 ###Plot 4:
-R code file: (plot4.R)
-Plot image: (plot4.png)
+R code file: [plot4.R](plot4.R)
+
+Plot image: [plot4.png](plot4.png)
 
 PNG files are all 480 x 480 px.* Construct the plot and save it to a PNG file with a width of 480
 pixels and a height of 480 pixels.
