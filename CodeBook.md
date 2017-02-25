@@ -32,34 +32,52 @@ Only base packages used.
 
 ###Description of Datas
 
-Complete as downloaded and read into R as dataframe:
+_Complete as downloaded and read into R as dataframe:_
 
 electricData:
 
 data.frame:	2075259 obs. of  9 variables:
+
 $ Date                 : Factor w/ 1442 levels
+
 $ Time                 : Factor w/ 1440 levels
+
 $ Global_active_power  : num
+
 $ Global_reactive_power: num
+
 $ Voltage              : num
+
 $ Global_intensity     : num
+
 $ Sub_metering_1       : num
+
 $ Sub_metering_2       : num
+
 $ Sub_metering_3       : num
 
-Subset of data for 1/2/2007 - 2/2/2007:
+_Subset of data for 1/2/2007 - 2/2/2007:_
 
 plotData:
 
 data.frame:	2880 obs. of  10 variables:
-$ Date                 : Factor w/ 1442 levels
-$ Time                 : Factor w/ 1440 levels
-$ Global_active_power  : num
-$ Global_reactive_power: num
-$ Voltage              : num
-$ Global_intensity     : num
-$ Sub_metering_1       : num
-$ Sub_metering_2       : num
-$ Sub_metering_3       : num
-$ DateTime             : POSIXlt, format: "Y-m-d H:M:S"
 
+$ Date                 : Factor w/ 1442 levels
+
+$ Time                 : Factor w/ 1440 levels
+
+$ Global_active_power  : num
+
+$ Global_reactive_power: num
+
+$ Voltage              : num
+
+$ Global_intensity     : num
+
+$ Sub_metering_1       : num
+
+$ Sub_metering_2       : num
+
+$ Sub_metering_3       : num
+
+$ DateTime             : POSIXlt, format: "Y-m-d H:M:S"
