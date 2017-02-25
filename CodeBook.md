@@ -32,7 +32,7 @@ Only base packages used.
 
 ###Description of Datas
 
-_Complete as downloaded and read into R as dataframe:_
+**Complete as downloaded and read into R as dataframe:**
 
 electricData:
 
@@ -56,7 +56,8 @@ $ Sub_metering_2       : num
 
 $ Sub_metering_3       : num
 
-_Subset of data for 1/2/2007 - 2/2/2007:_
+
+**Subset of data for 1/2/2007 - 2/2/2007:**
 
 plotData:
 
