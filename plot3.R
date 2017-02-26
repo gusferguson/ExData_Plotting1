@@ -3,11 +3,11 @@
 # Create plot3.png
 
 #set URL and download file from URL
-#url <- "https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip"
-#download.file(url, destfile = "Dataset.zip", method="curl")
+url <- "https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip"
+download.file(url, destfile = "Dataset.zip", method="curl")
 
 #unzip data file
-#unzip(zipfile="Dataset.zip", exdir=".")
+unzip(zipfile="Dataset.zip", exdir=".")
 
 #read in data files
 electricData <- read.table("household_power_consumption.txt", header = TRUE, sep = ";", na.strings = "?")
